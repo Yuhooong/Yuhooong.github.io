@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 21:02:53 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Fri, 30 Jun 2023 21:02:53 +0800</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>配置中遇到的问题与解决方法： 问题1:Mac版安装Hugo困难重重。 解决办法：自己在网上找教程，但是仍然不尽人意，因为Mac本对于一些安装有限制，后来请教老师，在老师的帮助下成功安装Hugo。 问题2:在创建博客过程中，在网上找Mac版教程，可能是教程顺序原因，启动Hugo命令后，预览网站出现“Page Not Found”页面。 解决办法：在请教遇到相同问题的同学并且仔细查看教程后，成功可以写博客到网站中。 问题3:网上教程没有说明我的博客内容应该在哪里写。 解决办法：老师给的教程虽然不是Mac版的，但是有说明博客内容输入到content里面新建的posts里面。</description>
+    </item>
+    
+  </channel>
+</rss>
